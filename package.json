@@ -1,0 +1,19 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@google/maps": "^1.0.2",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC"
+}
